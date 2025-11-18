@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Grundlagen/02_Hello-World/02_Hello-World.iml" filepath="$PROJECT_DIR$/Java-Grundlagen/02_Hello-World/02_Hello-World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Grundlagen/Java-Grundlagen.iml" filepath="$PROJECT_DIR$/Java-Grundlagen/Java-Grundlagen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_OOP_2025.iml" filepath="$PROJECT_DIR$/.idea/Java_OOP_2025.iml" />
+    </modules>
+  </component>
+</project>
