@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/Arbeitsblaetter/Arbeitsblaetter.iml" filepath="$PROJECT_DIR$/Arbeitsblaetter/Arbeitsblaetter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Grundlagen/Java-Grundlagen.iml" filepath="$PROJECT_DIR$/Java-Grundlagen/Java-Grundlagen.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_OOP_2025.iml" filepath="$PROJECT_DIR$/.idea/Java_OOP_2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software-Projekt/RPG_Demo/RPG_Demo.iml" filepath="$PROJECT_DIR$/Software-Projekt/RPG_Demo/RPG_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software-Projekt/Software-Projekt.iml" filepath="$PROJECT_DIR$/Software-Projekt/Software-Projekt.iml" />
     </modules>
   </component>
 </project>
